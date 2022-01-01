@@ -10,6 +10,9 @@ npm upadte
 
 vsc 끄고 다시 킴
 
+- 실행
+ng serve --host 127.0.0.1 --port 4200
+
 ## 호텔 메인 페이지
 ![image](https://user-images.githubusercontent.com/78013523/147844925-91f2598f-c9b2-4606-90b2-675ac17fcc47.png)
 
