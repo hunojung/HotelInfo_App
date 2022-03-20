@@ -1,5 +1,20 @@
 # HotelInfo_App
 
+2021-11-25 ~ 2021-12-03 playdata 16기 1차 팀 프로젝트 프론트엔드 소스코드 입니다.
+
+야놀자, 여기어때와 같은 호텔 정보 조회 서비스를 구현하였습니다.
+
+Back-end github 주소
+
+https://github.com/hunojung/HotelInfo
+
+## 사용 기술
+
+- Angular
+- Type Script
+
+## 프로젝트 실행
+
 npm i g
 
 npm i g --only=dev
