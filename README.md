@@ -8,10 +8,9 @@ Back-end github 주소
 
 https://github.com/hunojung/HotelInfo
 
-## 사용 기술
+## 사용한 프레임 워크
 
 - Angular
-- Type Script
 
 ## 프로젝트 실행
 
